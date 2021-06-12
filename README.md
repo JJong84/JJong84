@@ -1,5 +1,15 @@
-### Hi there 👋
+### 👨‍💻 Front-end Engineer
+KAIST CS'16 ~
 
+### Interest
+- Front-end
+- AI Research
+- Computer Vision
+
+### Stacks
+
+### Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangjwhw@gmail.com)](mailto:jangjwhw@gmail.com)
 <!--
 **JJong84/JJong84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
