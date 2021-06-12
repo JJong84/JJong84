@@ -1,5 +1,4 @@
 ### 👨‍💻 Front-end Engineer
-KAIST CS'16 ~
 
 ### Interest
 - Front-end
