@@ -1,7 +1,7 @@
 ### 👨‍💻 Frontend Engineer
 
 ### ☺️ Interest
-- Front-end
+- Frontend
 - AI Research
 - Computer Vision
 
